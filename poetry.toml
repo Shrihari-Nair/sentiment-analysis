@@ -1,0 +1,5 @@
+[virtualenvs]
+# create viretual env
+create = true
+# put it in project directory
+in-project = true
